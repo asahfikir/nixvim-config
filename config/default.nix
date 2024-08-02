@@ -12,6 +12,7 @@
     ./keymaps.nix
     ./autocompletion.nix
     ./lualine.nix
+    ./leap.nix
     ./neotree.nix
     # ./neorg.nix
     ./which-key.nix

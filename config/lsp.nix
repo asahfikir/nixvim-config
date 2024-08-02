@@ -19,8 +19,11 @@
         tailwindcss = {enable = true;};
         vuels = {enable = true;};
         emmet-ls = {enable = true;};
+        gleam = {enable = true;};
         tsserver = {enable = true;};
         ansiblels = {enable = true;};
+        intelephense.enable = true;
+        phpactor.enable = true;
         helm-ls = {
           enable = true;
           extraOptions = {
