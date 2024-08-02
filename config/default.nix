@@ -24,6 +24,7 @@
     ./options.nix
 
     ./telescope.nix
+    ./toggleterm.nix
     ./treesitter.nix
 
     ./neotree.nix
