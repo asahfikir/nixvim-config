@@ -14,6 +14,7 @@
     ./lualine.nix
     ./leap.nix
     ./neotree.nix
+    ./noice.nix
     # ./neorg.nix
     ./which-key.nix
     ./globals.nix
