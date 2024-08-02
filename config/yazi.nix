@@ -6,7 +6,7 @@
   keymaps = [
     {
       mode = "n";
-      key = "<leader>e";
+      key = "<leader>E";
       action.__raw = ''
         function()
           require('yazi').yazi()
