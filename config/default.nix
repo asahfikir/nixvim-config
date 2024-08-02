@@ -1,25 +1,38 @@
 {
   # Import all your configuration modules here
   imports = [ 
-    ./bufferline.nix 
-    ./colorscheme.nix
-    ./options.nix
-    ./dressing.nix
-    ./telescope.nix
-    ./luasnip.nix
-    ./treesitter.nix
-    ./lsp.nix
-    ./keymaps.nix
-    ./autocompletion.nix
-    ./lualine.nix
-    ./leap.nix
-    ./neotree.nix
-    ./noice.nix
-    # ./neorg.nix
-    ./which-key.nix
-    ./globals.nix
     ./alpha.nix
+    ./autocompletion.nix
+
+    ./bufferline.nix 
+
+    ./colorscheme.nix
+
+    ./dressing.nix
+
     ./extra_plugins.nix
+
+    ./globals.nix
+
+    ./keymaps.nix
+
+    ./leap.nix
+    ./lualine.nix
+    ./luasnip.nix
+    ./lsp.nix
+
+    ./options.nix
+
+    ./telescope.nix
+    ./treesitter.nix
+
+    ./neotree.nix
+    # ./neorg.nix
+    ./noice.nix
+
+    ./which-key.nix
+
+    ./yazi.nix
   ];
 
 }
