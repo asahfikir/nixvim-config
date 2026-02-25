@@ -22,7 +22,6 @@
         gleam = {enable = true;};
         tsserver = {enable = true;};
         ansiblels = {enable = true;};
-        intelephense.enable = true;
         phpactor.enable = true;
         helm-ls = {
           enable = true;
